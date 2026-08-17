@@ -616,9 +616,9 @@ embedding_model_name: text-embedding-v4
 
 ## 联系方式
 
-- **维护者**：[lei44196](https://github.com/lei44196)
-- **邮箱**：[2137601181@qq.com](mailto:2137601181@qq.com)
-- **GitHub**：[lei44196](https://github.com/lei44196)
+- **维护者**：[ljy-0105](https://github.com/ljy-0105)
+- **邮箱**：[1954614088@qq.com](1954614088@qq.com)
+- **GitHub**：[ljy-0105](https://github.com/ljy-0105)
 
 ---
 
